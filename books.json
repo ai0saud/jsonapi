@@ -1,0 +1,107 @@
+[
+    {
+        "title": "One Piece",
+        "author": "Echiiro Oda",
+        "category": "Shonen",
+        "books_sold": 6757,
+        "image": "https://i.pinimg.com/564x/66/18/af/6618af77b8d845c10a8d90b97e15458e.jpg"
+    },
+    {
+        "title": "Jujutsu Kaisen",
+        "author": "Gege Akutami",
+        "category": "Shonen",
+        "books_sold": 925,
+        "image": "https://i.pinimg.com/564x/9e/aa/c8/9eaac8921c626d2359632b8fb448d4e8.jpg"
+    },
+    {
+        "title": "Kimetsu No Yaiba",
+        "author": "Koyoharu Gotouge",
+        "category": "Shonen",
+        "books_sold": 1431,
+        "image": "https://i.pinimg.com/564x/0e/3f/6f/0e3f6fa47f1d529bbd8c20cdd029a72f.jpg"
+    },
+    {
+        "title": "Attack On Titan",
+        "author": "Hajime Isayama",
+        "category": "Shonen",
+        "books_sold": 1287,
+        "image": "https://i.pinimg.com/564x/7f/96/51/7f9651145568760af4887f114c11eda4.jpg"
+    },
+    {
+        "title": "Hunter X Hunter",
+        "author": "Yoshihiro Togashi",
+        "category": "Shonen",
+        "books_sold": 567,
+        "image": "https://i.pinimg.com/564x/d1/81/1c/d1811c4ff2761a00bd8f22ddb2cf624d.jpg"
+    },
+    {
+        "title": "Tokyo Ghoul",
+        "author": "Sui Ishida",
+        "category": "Blood",
+        "books_sold": 398,
+        "image": "https://i.pinimg.com/564x/4a/49/89/4a49891e57f797105be22678810a59df.jpg"
+    },
+    {
+        "title": "Berserk",
+        "author": "Kentaro Miura",
+        "category": "Blood",
+        "books_sold": 1567,
+        "image": "https://i.pinimg.com/564x/a6/40/fe/a640feec311a15bb14f9405a31d9fddc.jpg"
+    },
+    {
+        "title": "Parasyte",
+        "author": "Hitoshi Iwaaki",
+        "category": "Blood",
+        "books_sold": 234,
+        "image": "https://i.pinimg.com/736x/d2/f1/c4/d2f1c4f0660730b60f675568e5d23781.jpg"
+    },
+    {
+        "title": "Death Note",
+        "author": "Tsugumi Ohba",
+        "category": "Blood",
+        "books_sold": 134,
+        "image": "https://i.pinimg.com/564x/80/ae/9a/80ae9adbc32054880ce1cd694e958edb.jpg"
+    },
+    {
+        "title": "Bleach Blood War",
+        "author": "Tite Kubo",
+        "category": "Blood",
+        "books_sold": 581,
+        "image": "https://i.pinimg.com/564x/0c/fb/0f/0cfb0fd2e18f4d2d8fafa99da7d4ce3c.jpg"
+    },
+    {
+        "title": "Hellsing Ultimate",
+        "author": "Kouta Hirano",
+        "category": "Horror",
+        "books_sold": 398,
+        "image": "https://i.pinimg.com/564x/61/11/4c/61114ce9b5c651f44f0eccda28b149df.jpg"
+    },
+    {
+        "title": "Paprika",
+        "author": "Kentaro Miura",
+        "category": "Horror",
+        "books_sold": 872,
+        "image": "https://i.pinimg.com/564x/cc/fd/0b/ccfd0baf75659a22dde1260c36d6ba2e.jpg"
+    },
+    {
+        "title": "Junji Ito",
+        "author": "Junji Ito",
+        "category": "Horror",
+        "books_sold": 234,
+        "image": "https://i.pinimg.com/564x/0d/12/4a/0d124ab404038aba68bb07ef24652a01.jpg"
+    },
+    {
+        "title": "Mononoke",
+        "author": "Chiaki J. Konaka",
+        "category": "Horror",
+        "books_sold": 134,
+        "image": "https://i.pinimg.com/564x/aa/9d/b2/aa9db24946d03fab063959886435a29d.jpg"
+    },
+    {
+        "title": "Devilman Crybaby",
+        "author": "Ichirō Ōkouchi",
+        "category": "Horror",
+        "books_sold": 581,
+        "image": "https://i.pinimg.com/564x/76/28/12/7628128df0e1f8d9fa328a84b38851da.jpg"
+    }
+]
